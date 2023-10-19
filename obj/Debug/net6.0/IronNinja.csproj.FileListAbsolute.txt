@@ -1,0 +1,15 @@
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\bin\Debug\net6.0\IronNinja.exe
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\bin\Debug\net6.0\IronNinja.deps.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\bin\Debug\net6.0\IronNinja.runtimeconfig.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\bin\Debug\net6.0\IronNinja.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\bin\Debug\net6.0\IronNinja.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.csproj.AssemblyReference.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.AssemblyInfoInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.AssemblyInfo.cs
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.csproj.CoreCompileInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\refint\IronNinja.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\IronNinja.genruntimeconfig.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\IronNinja\obj\Debug\net6.0\ref\IronNinja.dll
